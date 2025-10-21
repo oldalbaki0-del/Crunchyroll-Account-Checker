@@ -1,4 +1,4 @@
-# Crunchyroll-Account-Checker
+# crunchyrollchecker.py
 Simple tool to filter premium working, not woking Cracked Crunchyroll account.
 
 ## Requirements
